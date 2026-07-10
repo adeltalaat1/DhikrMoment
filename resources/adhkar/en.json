@@ -1,0 +1,22 @@
+{
+  "morning": [
+    {"id": "morn001", "text": "We have entered a new morning and with it all sovereignty belongs to Allah, and praise is due to Allah. There is no god but Allah alone without partner. To Him belongs the dominion and to Him belongs all praise and He is over all things competent."},
+    {"id": "morn002", "text": "O Allah, by You we enter the morning and by You we enter the evening, by You we live and by You we die and to You is the final return."},
+    {"id": "morn003", "text": "O Allah, whatever blessing I or any of Your creation have risen upon, it is from You alone with no partner. So for You is all praise and unto You all thanks."}
+  ],
+  "evening": [
+    {"id": "even001", "text": "We have entered a new evening and with it all sovereignty belongs to Allah, and praise is due to Allah. There is no god but Allah alone without partner. To Him belongs the dominion and to Him belongs all praise and He is over all things competent."},
+    {"id": "even002", "text": "O Allah, by You we enter the evening and by You we enter the morning, by You we live and by You we die and to You is the resurrection."},
+    {"id": "even003", "text": "O Allah, I ask You for the good of this night, its victory, its light, its blessings, and its guidance, and I seek refuge in You from the evil of this night and what follows it."}
+  ],
+  "sleep": [
+    {"id": "sleep001", "text": "In Your name, my Lord, I lay down my side and in Your name I rise it up. If You take my soul, then have mercy upon it, and if You send it back, then protect it as You protect Your righteous servants."},
+    {"id": "sleep002", "text": "O Allah, I submit myself to You, I entrust my affairs to You, I turn my face to You, and I rely completely upon You out of desire for and fear of You. There is no refuge or escape from You except with You. I believe in Your Book which You have revealed and in Your Prophet whom You have sent."}
+  ],
+  "general": [
+    {"id": "gen001", "text": "Glory be to Allah and praise be to Him, Glory be to Allah the Almighty."},
+    {"id": "gen002", "text": "There is no power and no strength except with Allah."},
+    {"id": "gen003", "text": "Allah is sufficient for us and He is the best disposer of affairs."},
+    {"id": "gen004", "text": "I seek forgiveness from Allah and turn to Him in repentance."}
+  ]
+}

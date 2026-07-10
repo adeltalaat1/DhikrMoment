@@ -1,0 +1,30 @@
+{
+  "morning": [
+    {"id": "morn001", "text": "We have entered a new morning and with it all sovereignty belongs to Allah, and praise is due to Allah. There is no god but Allah alone without partner. To Him belongs the dominion and to Him belongs all praise and He is over all things competent.", "count": 1, "benefit": "Great virtue"},
+    {"id": "morn002", "text": "O Allah, by You we enter the morning and by You we enter the evening, by You we live and by You we die and to You is the final return.", "count": 1, "benefit": "Starting the day with the remembrance of Allah"},
+    {"id": "morn003", "text": "O Allah, You are my Lord, there is no god but You. You created me and I am Your slave, and I am upon Your covenant and promise as much as I am able. I seek refuge in You from the evil of what I have done. I acknowledge Your favor upon me, and I acknowledge my sin, so forgive me, for none forgives sins except You.", "count": 1, "benefit": "The master of seeking forgiveness (Sayyid al-Istighfar)"},
+    {"id": "morn004", "text": "I am pleased with Allah as my Lord, with Islam as my religion, and with Muhammad (peace and blessings be upon him) as my Prophet and Messenger.", "count": 3, "benefit": "Whoever says it morning and evening, Allah will be pleased with him on the Day of Resurrection."},
+    {"id": "morn005", "text": "O Allah, whatever blessing I or any of Your creation have risen upon, it is from You alone, without partner, so for You is all praise and unto You all thanks.", "count": 1, "benefit": "Whoever says this in the morning has fulfilled the thankfulness of his day."}
+  ],
+  "evening": [
+    {"id": "even001", "text": "We have entered a new evening and with it all sovereignty belongs to Allah, and praise is due to Allah. There is no god but Allah alone without partner. To Him belongs the dominion and to Him belongs all praise and He is over all things competent.", "count": 1, "benefit": "Great virtue"},
+    {"id": "even002", "text": "O Allah, by You we enter the evening and by You we enter the morning, by You we live and by You we die and to You is the resurrection.", "count": 1, "benefit": "Starting the evening with the remembrance of Allah"},
+    {"id": "even003", "text": "O Allah, You are my Lord, there is no god but You. You created me and I am Your slave, and I am upon Your covenant and promise as much as I am able. I seek refuge in You from the evil of what I have done. I acknowledge Your favor upon me, and I acknowledge my sin, so forgive me, for none forgives sins except You.", "count": 1, "benefit": "The master of seeking forgiveness (Sayyid al-Istighfar)"},
+    {"id": "even004", "text": "I seek refuge in the perfect words of Allah from the evil of what He has created.", "count": 3, "benefit": "Nothing will harm him that night."},
+    {"id": "even005", "text": "In the name of Allah, with whose name nothing on earth or in the heavens can cause harm, and He is the All-Hearing, All-Knowing.", "count": 3, "benefit": "No sudden affliction will befall him."}
+  ],
+  "sleep": [
+    {"id": "sleep001", "text": "In Your name, my Lord, I lay down my side and in Your name I rise it up. If You take my soul, then have mercy upon it, and if You send it back, then protect it as You protect Your righteous servants.", "count": 1, "benefit": "Protection during sleep"},
+    {"id": "sleep002", "text": "O Allah, save me from Your punishment on the Day You resurrect Your servants.", "count": 3, "benefit": "Protection from Allah's punishment"},
+    {"id": "sleep003", "text": "O Allah, in Your name I die and I live.", "count": 1, "benefit": "Remembrance when going to sleep"},
+    {"id": "sleep004", "text": "SubhanAllah (33 times), Alhamdulillah (33 times), Allahu Akbar (34 times).", "count": 1, "benefit": "Glorification before sleep has great virtue."},
+    {"id": "sleep005", "text": "O Allah, I submit myself to You, I entrust my affairs to You, I turn my face to You, and I rely completely upon You out of desire for and fear of You. There is no refuge or escape from You except with You. I believe in Your Book which You have revealed and in Your Prophet whom You have sent.", "count": 1, "benefit": "Comprehensive supplication before sleep."}
+  ],
+  "general": [
+    {"id": "gen001", "text": "Glory be to Allah and praise be to Him, Glory be to Allah the Almighty.", "count": 100, "benefit": "A palm tree will be planted for him in Paradise, and his sins will be erased."},
+    {"id": "gen002", "text": "There is no power and no strength except with Allah.", "count": -1, "benefit": "A treasure from the treasures of Paradise."},
+    {"id": "gen003", "text": "O Allah, send prayers and peace upon our Prophet Muhammad.", "count": 10, "benefit": "Whoever sends prayers upon me once, Allah will send prayers upon him ten times."},
+    {"id": "gen004", "text": "I seek forgiveness from Allah the Almighty and repent to Him.", "count": -1, "benefit": "Forgiveness of sins."},
+    {"id": "gen005", "text": "Allah is sufficient for me. There is no god but Him. In Him I have placed my trust, and He is the Lord of the Mighty Throne.", "count": 7, "benefit": "Allah will suffice him against all worries of this world and the Hereafter."}
+  ]
+}

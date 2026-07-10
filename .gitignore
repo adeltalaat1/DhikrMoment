@@ -1,0 +1,34 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python compiled cache
+**/__pycache__/
+*.py[cod]
+*.pyo
+*$py.class
+
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# Local IDE configurations
+.vscode/
+.idea/
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# App backup/copy directories
+ZakirApp - Copy/
+ZakirApp - Copy (2)/
+New folder/
+Adhan_Downloads/
+downloads/
+
+# Large files
+*.apk
