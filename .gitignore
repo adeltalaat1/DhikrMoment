@@ -32,3 +32,11 @@ downloads/
 
 # Large files
 *.apk
+
+# Excluded project: ZakirApp files (only DhikrMoment is tracked)
+ZakirApp/
+core/
+ui/
+resources/
+main.py
+تيست اشعارات.py
