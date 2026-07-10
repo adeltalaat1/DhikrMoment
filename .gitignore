@@ -32,6 +32,7 @@ downloads/
 
 # Large files
 *.apk
+release/
 
 # Excluded project: ZakirApp files (only DhikrMoment is tracked)
 ZakirApp/
